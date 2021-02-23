@@ -27,6 +27,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "날씨어플",
+    "githubUrl": "https://github.com/rang21c/weather-app"
   }
 }
