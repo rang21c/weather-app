@@ -1,2 +1,3 @@
-# weather-app
+# Weather-app
+
 Learning React-Native app
